@@ -1,6 +1,6 @@
 {
   "version": 2,
   "routes": [
-      {"src": "/file/(.*)","dest": "https://telegra.ph"}
+      {"src": "/(.*)","dest": "https://telegra.ph"}
   ]
 }
