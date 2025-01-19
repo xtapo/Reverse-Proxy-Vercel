@@ -1,6 +1,6 @@
 {
   "version": 2,
   "routes": [
-      {"src": "/(.*)","dest": "https://img.bibica.net"}
+      {"src": "/(.*)","dest": "https://telegra.ph"}
   ]
 }
